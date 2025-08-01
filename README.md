@@ -6,7 +6,7 @@ This project is a complete redesign of the Third Chair landing page website with
 Built using **Next.js**, **Tailwind CSS**, and **TypeScript**, the design focuses on clarity, responsiveness, and performance to improve user engagement.
 
 ## Live Demo / Preview
-🔗 **Live Demo:** [View Website](https://your-live-link.com)
+🔗 **Live Demo:** [View Website](https://thirdchair-website-cq5f.vercel.app/)
 
 ## Screenshots
 ![Homepage Screenshot](screenshots/homepage.PNG)
