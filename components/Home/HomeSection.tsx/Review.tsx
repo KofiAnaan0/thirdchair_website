@@ -131,7 +131,7 @@ const Review = () => {
 
 							{/* text content */}
 							<p className="text-sm md:text-base font-regular text-light-white mb-3">
-								Third Chair is helping us monetize opportunities we didn't know
+								Third Chair is helping us monetize opportunities we didn&apos;t know
 								even existed.
 							</p>
 
