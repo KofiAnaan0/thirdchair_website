@@ -23,7 +23,7 @@ const Hero = () => {
 					{/* description */}
 					<p className="text-light-white text-sm sm:text-sm md:text-base font-medium">
 						Third Chair finds unauthorized ad uses of your work, helps you claim
-						what you're owed, and automates the payout—no legal team needed.
+						what you&apos;re owed, and automates the payout—no legal team needed.
 					</p>
 
 					{/* Button */}
