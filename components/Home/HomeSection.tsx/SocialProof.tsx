@@ -12,7 +12,7 @@ const SocialProof = () => {
 				<div data-aos="fade-up">
 					{/* heading */}
 					<h2 className="text-primary-black text-lg md:text-xl lg:text-2xl font-bold md:text-center mb-10">
-						Join 100+ Companies monetizing <br /> opportunities they didn't know
+						Join 100+ Companies monetizing <br /> opportunities they didn&apos;t know
 						even existed.
 					</h2>
 
