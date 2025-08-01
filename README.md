@@ -9,7 +9,7 @@ Built using **Next.js**, **Tailwind CSS**, and **TypeScript**, the design focuse
 🔗 **Live Demo:** [View Website](https://your-live-link.com)
 
 ## Screenshots
-![Homepage Screenshot](screenshots/homepage.png)
+![Homepage Screenshot](screenshots/homepage.PNG)
 
 ## Features
 - Responsive & mobile-first design
